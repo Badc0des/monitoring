@@ -8,7 +8,7 @@ Hanya sebuah tools untuk monitoring kenaikan harga coin di exhcange INDODAX
 - Python
 - Kopi
 
-This installer is specifically built for Ubuntu 22.04 x64. It might work on older or newer versions.
+HP/PC bisa
 
 
 ## Installation
