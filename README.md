@@ -25,5 +25,5 @@ python idx.py
 
 ## Note
 
-Untuk harga kenaikan ini tergantung persenan yang saya, kalian bisa rubah sesuai persenan yang ingin kalian set, dan untuk waktu juga kalian bisa set sendiri
+Untuk harga kenaikan ini tergantung persenan yang saya set, kalian bisa rubah sesuai persenan yang ingin kalian set, dan untuk waktu juga kalian bisa set sendiri
 
