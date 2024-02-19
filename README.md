@@ -1,6 +1,6 @@
 # Indodax Increase Monitoring
 
-Hanya sebuah tools untuk monitoring kenaikan harga coin di exhcange INDODAX
+Hanya sebuah tools untuk monitoring kenaikan harga coin secara realtime di exhcange INDODAX
 
 ## Requirements
 
