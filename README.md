@@ -7,7 +7,9 @@ Hanya sebuah tools untuk monitoring kenaikan harga coin secara realtime di exhca
 - Command Propmt
 - Python
 - Kopi
-
+```sh
+pip install requests
+```
 HP/PC bisa
 
 
